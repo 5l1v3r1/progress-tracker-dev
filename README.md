@@ -2,5 +2,6 @@
 
 Use the following script to build the extension:
 ```shell script
-./bin/build.sh
+$ chmod +x bin/build.sh bin/join.py
+$ ./bin/build.sh
 ```
